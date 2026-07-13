@@ -7,6 +7,7 @@
 | [0053-maximum-subarray](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0283-move-zeroes) |
+| [0977-squares-of-a-sorted-array](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1929-concatenation-of-array](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/1929-concatenation-of-array) |
 ## Simulation
 |  |
@@ -25,6 +26,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0169-majority-element) |
+| [0977-squares-of-a-sorted-array](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Counting
 |  |
 | ------- |
@@ -37,4 +39,5 @@
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0283-move-zeroes) |
+| [0977-squares-of-a-sorted-array](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
