@@ -6,6 +6,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0169-majority-element) |
+| [0283-move-zeroes](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0283-move-zeroes) |
 | [1929-concatenation-of-array](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/1929-concatenation-of-array) |
 ## Simulation
 |  |
@@ -32,4 +33,8 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0053-maximum-subarray) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
