@@ -11,6 +11,7 @@
 | [0053-maximum-subarray](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0053-maximum-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0169-majority-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0977-squares-of-a-sorted-array](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -59,6 +60,7 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0209-minimum-size-subarray-sum) |
 ## Greedy
 |  |
 | ------- |
@@ -66,6 +68,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 ## Stack
@@ -76,4 +79,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0042-trapping-rain-water) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
