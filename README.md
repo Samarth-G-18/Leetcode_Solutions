@@ -16,6 +16,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0930-binary-subarrays-with-sum](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1929-concatenation-of-array](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/1929-concatenation-of-array) |
@@ -28,6 +29,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0930-binary-subarrays-with-sum](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0930-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0992-subarrays-with-k-different-integers) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -44,6 +46,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0169-majority-element) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0992-subarrays-with-k-different-integers) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -75,6 +78,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0930-binary-subarrays-with-sum](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0930-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 ## Stack
