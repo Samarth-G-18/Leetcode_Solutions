@@ -7,6 +7,7 @@
 | [0011-container-with-most-water](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0018-4sum) |
+| [0041-first-missing-positive](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0053-maximum-subarray) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -29,6 +30,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0930-binary-subarrays-with-sum](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0930-binary-subarrays-with-sum) |
