@@ -33,6 +33,7 @@
 | ------- |
 | [0041-first-missing-positive](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0383-ransom-note) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0904-fruit-into-baskets](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0930-binary-subarrays-with-sum) |
@@ -53,6 +54,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0383-ransom-note) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0992-subarrays-with-k-different-integers) |
 ## Dynamic Programming
 |  |
@@ -109,5 +111,6 @@
 ## String
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
