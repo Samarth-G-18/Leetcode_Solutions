@@ -11,6 +11,7 @@
 | [0042-trapping-rain-water](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0053-maximum-subarray) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0152-maximum-product-subarray](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0209-minimum-size-subarray-sum) |
@@ -61,6 +62,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0053-maximum-subarray) |
+| [0152-maximum-product-subarray](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0392-is-subsequence) |
 ## Two Pointers
 |  |
