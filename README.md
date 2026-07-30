@@ -21,6 +21,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0881-boats-to-save-people](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0904-fruit-into-baskets) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0930-binary-subarrays-with-sum](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0992-subarrays-with-k-different-integers) |
@@ -47,6 +48,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0169-majority-element) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 ## Sorting
 |  |
 | ------- |
@@ -69,6 +71,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0392-is-subsequence) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Two Pointers
 |  |
@@ -123,4 +126,12 @@
 | ------- |
 | [0383-ransom-note](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0392-is-subsequence) |
+## Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0918-maximum-sum-circular-subarray) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
