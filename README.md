@@ -90,6 +90,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0704-binary-search](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0704-binary-search) |
@@ -136,4 +137,8 @@
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0918-maximum-sum-circular-subarray) |
+## Math
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
