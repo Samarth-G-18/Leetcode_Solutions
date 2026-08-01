@@ -7,6 +7,7 @@
 | [0011-container-with-most-water](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0018-4sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0042-trapping-rain-water) |
@@ -91,6 +92,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
