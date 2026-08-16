@@ -1,23 +1,19 @@
 class Solution:
-    def minEatingSpeed(self, piles: List[int], h: int) -> int:
-        def canFinish(k: int) -> bool:
-            hours = 0
-            for pile in piles:
-                hours += pile // k
-                if pile % k != 0:
-                    hours += 1
-                if hours > h:
-                    return False
-            return True
-
-        left, right = 1, max(piles)
-        ans = right
-        while left <= right:
+    def minEatingSpeed(self, piles: list[int], h: int) -> int:
+        left = 1
+        right = max(piles) # Note: Some variants require max(piles) + 1 here
+        
+        while left < right:
             mid = left + (right - left) // 2
-            if canFinish(mid):
-                ans = mid
-                right = mid - 1
+            
+            # Feasibility check inside the loop
+            total_hours = sum((pile + mid - 1) // mid for pile in piles)
+            
+            if total_hours <= h:
+                right = mid      # Move right to mid (keeps mid in the search space)
             else:
-                left = mid + 1
-        return ans
+                left = mid + 1   # mid is invalid, so move past it
+                
+        return left  # At the end, left == right, pointing to the answer
+
         
