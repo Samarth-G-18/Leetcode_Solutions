@@ -39,6 +39,7 @@
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1539-kth-missing-positive-number](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/1539-kth-missing-positive-number) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1929-concatenation-of-array](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/1929-concatenation-of-array) |
@@ -118,6 +119,7 @@
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1539-kth-missing-positive-number](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/1539-kth-missing-positive-number) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/1870-minimum-speed-to-arrive-on-time) |
 ## Greedy
 |  |
