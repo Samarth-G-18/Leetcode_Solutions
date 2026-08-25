@@ -24,6 +24,7 @@
 | [0169-majority-element](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0283-move-zeroes) |
+| [0410-split-array-largest-sum](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0410-split-array-largest-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0475-heaters](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0475-heaters) |
 | [0643-maximum-average-subarray-i](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0643-maximum-average-subarray-i) |
@@ -87,6 +88,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0392-is-subsequence) |
+| [0410-split-array-largest-sum](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0410-split-array-largest-sum) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Two Pointers
@@ -116,6 +118,7 @@
 | [0162-find-peak-element](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0410-split-array-largest-sum](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0410-split-array-largest-sum) |
 | [0475-heaters](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0475-heaters) |
 | [0704-binary-search](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0875-koko-eating-bananas) |
@@ -129,6 +132,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0011-container-with-most-water) |
+| [0410-split-array-largest-sum](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0410-split-array-largest-sum) |
 | [0881-boats-to-save-people](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0881-boats-to-save-people) |
 ## Sliding Window
 |  |
@@ -152,6 +156,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0410-split-array-largest-sum](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0410-split-array-largest-sum) |
 | [0930-binary-subarrays-with-sum](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## String
