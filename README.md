@@ -48,6 +48,7 @@
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1929-concatenation-of-array](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/1929-concatenation-of-array) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 ## Simulation
 |  |
 | ------- |
@@ -138,12 +139,14 @@
 | [1539-kth-missing-positive-number](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/1552-magnetic-force-between-two-balls) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/1870-minimum-speed-to-arrive-on-time) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0011-container-with-most-water) |
 | [0410-split-array-largest-sum](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0410-split-array-largest-sum) |
 | [0881-boats-to-save-people](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0881-boats-to-save-people) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 ## Sliding Window
 |  |
 | ------- |
