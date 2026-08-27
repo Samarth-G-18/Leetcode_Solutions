@@ -28,6 +28,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0475-heaters](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0475-heaters) |
 | [0528-random-pick-with-weight](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0528-random-pick-with-weight) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0643-maximum-average-subarray-i](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0704-binary-search) |
@@ -129,6 +130,7 @@
 | [0410-split-array-largest-sum](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0410-split-array-largest-sum) |
 | [0475-heaters](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0475-heaters) |
 | [0528-random-pick-with-weight](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0528-random-pick-with-weight) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0875-koko-eating-bananas) |
