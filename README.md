@@ -164,6 +164,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0042-trapping-rain-water) |
+| [1021-remove-outermost-parentheses](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/1021-remove-outermost-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -181,6 +182,7 @@
 | ------- |
 | [0383-ransom-note](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0392-is-subsequence) |
+| [1021-remove-outermost-parentheses](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/1021-remove-outermost-parentheses) |
 ## Queue
 |  |
 | ------- |
@@ -206,4 +208,8 @@
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0278-first-bad-version) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
