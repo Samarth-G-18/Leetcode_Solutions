@@ -11,6 +11,6 @@ class Solution:
                 depth-=1
                 if depth>0:
                     res.append(char)
-        return ''.join(res)
+        return "".join(res)
 
         
