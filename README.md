@@ -48,6 +48,7 @@
 | [1552-magnetic-force-between-two-balls](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/1552-magnetic-force-between-two-balls) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/1870-minimum-speed-to-arrive-on-time) |
+| [1901-find-a-peak-element-ii](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/1901-find-a-peak-element-ii) |
 | [1929-concatenation-of-array](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/1929-concatenation-of-array) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 ## Simulation
@@ -142,6 +143,7 @@
 | [1539-kth-missing-positive-number](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/1552-magnetic-force-between-two-balls) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/1870-minimum-speed-to-arrive-on-time) |
+| [1901-find-a-peak-element-ii](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/1901-find-a-peak-element-ii) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 ## Greedy
 |  |
@@ -214,4 +216,8 @@
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/1021-remove-outermost-parentheses) |
+## Matrix
+|  |
+| ------- |
+| [1901-find-a-peak-element-ii](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/1901-find-a-peak-element-ii) |
 <!---LeetCode Topics End-->
