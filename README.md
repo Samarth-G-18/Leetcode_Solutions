@@ -152,6 +152,7 @@
 | [0011-container-with-most-water](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0011-container-with-most-water) |
 | [0410-split-array-largest-sum](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0410-split-array-largest-sum) |
 | [0881-boats-to-save-people](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0881-boats-to-save-people) |
+| [1903-largest-odd-number-in-string](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 ## Sliding Window
 |  |
@@ -189,6 +190,7 @@
 | [0383-ransom-note](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0392-is-subsequence) |
 | [1021-remove-outermost-parentheses](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/1021-remove-outermost-parentheses) |
+| [1903-largest-odd-number-in-string](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Queue
 |  |
 | ------- |
@@ -202,6 +204,7 @@
 | ------- |
 | [0069-sqrtx](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0069-sqrtx) |
 | [0528-random-pick-with-weight](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0528-random-pick-with-weight) |
+| [1903-largest-odd-number-in-string](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Randomized
 |  |
 | ------- |
