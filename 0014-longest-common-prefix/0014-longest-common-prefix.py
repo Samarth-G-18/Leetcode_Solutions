@@ -8,8 +8,8 @@ class Solution:
                 pref_len -= 1
                 if pref_len == 0:
                     return ""
-                
-                pref = pref[0:pref_len]
+                else:   
+                    pref = pref[0:pref_len]
         
         return pref
         
