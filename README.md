@@ -61,6 +61,7 @@
 | ------- |
 | [0041-first-missing-positive](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0383-ransom-note) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0904-fruit-into-baskets](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0904-fruit-into-baskets) |
@@ -189,6 +190,7 @@
 | [0014-longest-common-prefix](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0392-is-subsequence) |
 | [1021-remove-outermost-parentheses](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/1021-remove-outermost-parentheses) |
