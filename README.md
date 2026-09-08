@@ -193,6 +193,7 @@
 | [0205-isomorphic-strings](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0392-is-subsequence) |
+| [0796-rotate-string](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Queue
@@ -233,4 +234,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0014-longest-common-prefix) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
