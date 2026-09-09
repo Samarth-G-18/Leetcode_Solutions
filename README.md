@@ -174,6 +174,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0042-trapping-rain-water) |
 | [1021-remove-outermost-parentheses](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -197,6 +198,7 @@
 | [0392-is-subsequence](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0392-is-subsequence) |
 | [0796-rotate-string](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Queue
 |  |
@@ -229,6 +231,7 @@
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Matrix
 |  |
 | ------- |
