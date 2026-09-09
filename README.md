@@ -52,6 +52,7 @@
 | [1901-find-a-peak-element-ii](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/1901-find-a-peak-element-ii) |
 | [1929-concatenation-of-array](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/1929-concatenation-of-array) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Simulation
 |  |
 | ------- |
@@ -67,6 +68,7 @@
 | [0904-fruit-into-baskets](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0992-subarrays-with-k-different-integers) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -231,6 +233,7 @@
 |  |
 | ------- |
 | [1901-find-a-peak-element-ii](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/1901-find-a-peak-element-ii) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Trie
 |  |
 | ------- |
@@ -239,4 +242,12 @@
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0796-rotate-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 <!---LeetCode Topics End-->
