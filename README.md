@@ -95,6 +95,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -106,6 +107,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0018-4sum) |
@@ -190,6 +192,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0151-reverse-words-in-a-string) |
@@ -253,4 +256,8 @@
 |  |
 | ------- |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
