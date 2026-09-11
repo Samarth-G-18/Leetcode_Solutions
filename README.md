@@ -24,6 +24,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0217-contains-duplicate](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0410-split-array-largest-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -63,6 +64,7 @@
 | [0041-first-missing-positive](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
 | [0383-ransom-note](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0383-ransom-note) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0904-fruit-into-baskets](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0904-fruit-into-baskets) |
@@ -81,6 +83,7 @@
 | [0015-3sum](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0018-4sum) |
 | [0169-majority-element](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
 | [0475-heaters](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0475-heaters) |
 | [0658-find-k-closest-elements](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0658-find-k-closest-elements) |
 | [0881-boats-to-save-people](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0881-boats-to-save-people) |
