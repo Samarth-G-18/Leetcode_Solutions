@@ -65,6 +65,7 @@
 | [0169-majority-element](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0383-ransom-note) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0904-fruit-into-baskets](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0904-fruit-into-baskets) |
@@ -84,6 +85,7 @@
 | [0018-4sum](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0018-4sum) |
 | [0169-majority-element](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0242-valid-anagram) |
 | [0475-heaters](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0475-heaters) |
 | [0658-find-k-closest-elements](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0658-find-k-closest-elements) |
 | [0881-boats-to-save-people](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0881-boats-to-save-people) |
@@ -200,6 +202,7 @@
 | [0125-valid-palindrome](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0392-is-subsequence) |
 | [0796-rotate-string](https://github.com/Samarth-G-18/Leetcode_Solutions/tree/master/0796-rotate-string) |
